@@ -1,7 +1,7 @@
 # lines-counter
 Entrance test for Mail.ru Golang course.
 
-**Using:**
+**Example:**
 
     python linesCount.py -p joker.txt
 
