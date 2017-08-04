@@ -1,10 +1,11 @@
 # lines-counter
 Entrance test for Mail.ru Golang course.
 
-Using:
+**Using:**
+
     python linesCount.py -p joker.txt
 
-Help message:
+**Help message:**
 
     usage: Get the number of lines in a file. \ Рассчёт количества строк в файле.
             [-h] [-p PATH] [-b BUFF]
